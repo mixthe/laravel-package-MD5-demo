@@ -1,0 +1,18 @@
+{
+    "name": "mixthe/hasher",
+    "description": "MD5 support in laravel",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "mixthe",
+            "email": "kong007sss@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Mixthe\\Hasher\\":"src/"
+        }
+    }
+}
