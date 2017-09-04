@@ -1,6 +1,9 @@
 <?php
+namespace Mixthe\Hasher;
+
 use PHPUnit\Framework\TestCase;
 use Mixthe\Hasher\MD5Hasher;
+
 class MD5HaserTest extends TestCase
 {
     protected $hasher;
